@@ -1,6 +1,6 @@
 Hi, I’m @SamanthaCat120
 - 👀 I’m interested in both front-end and back-end, and especially game development.
-- 🌱 I’m currently learning . I've taken computing logic an introductory python course, Git&Github, and Informatics.
+- 🌱 I’m currently learning Python and game development. I've taken computing logic an introductory python course, Git&Github, and Informatics.
 - 📫 How to reach me: e-mail at samanthacat120@gmail.com 
 
 <!---
