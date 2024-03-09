@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SamanthaCat120
-- 👀 I’m interested in doing phenomenally well in computing classes.
-- 🌱 I’m currently learning Git&Github, and Informatics. I've taken computing logic and a semester of python.
-- 💞️ I'm not collaborating on anything yet. First, I want to learn the ropes.
+Hi, I’m @SamanthaCat120
+- 👀 I’m interested in both front-end and back-end, and especially game development.
+- 🌱 I’m currently learning . I've taken computing logic an introductory python course, Git&Github, and Informatics.
 - 📫 How to reach me: e-mail at samanthacat120@gmail.com 
 
 <!---
